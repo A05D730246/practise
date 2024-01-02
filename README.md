@@ -16,4 +16,4 @@
 
 
 [練習](https://www.aigei.com/item/zhong_guo_feng_37571.html)
-[測試(https://github.com/A05D730246/gjschool.git)]
+[測試](https://github.com/A05D730246/gjschool.git)
