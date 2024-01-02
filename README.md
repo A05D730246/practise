@@ -19,4 +19,4 @@
 
 [測試](https://github.com/A05D730246/gjschool.git)
 
-[測試](images/栗子排骨.jpg)
+![測試](images/栗子排骨.jpg)
